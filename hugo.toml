@@ -1,0 +1,4 @@
+bassURL = 'https://lusharon.github.io/practice_hugo/'
+languageCode = 'zh-tw'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
