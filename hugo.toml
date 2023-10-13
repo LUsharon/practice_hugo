@@ -1,9 +1,4 @@
 baseURL = 'https://lusharon.github.io/practice_hugo/'
 languageCode = 'zh-tw'
-<<<<<<< HEAD
 title = "LU's Site"
 theme = 'PaperMod'
-=======
-title = 'My New Hugo Site'
-theme = 'PaperMod'
->>>>>>> bb30b43524c47893100ee852ef29377d5615b901
