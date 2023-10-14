@@ -6,7 +6,7 @@
     <description>Recent content in Docs on LU&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 05 Oct 2023 22:52:01 +0800</lastBuildDate><atom:link href="https://lusharon.github.io/practice_hugo/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 22:52:01 +0800</lastBuildDate><atom:link href="https://lusharon.github.io/practice_hugo/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://lusharon.github.io/practice_hugo/docs/test/</link>
@@ -19,7 +19,7 @@
     <item>
       <title>泰國曼谷河畔區水路交通_觀光旅遊詐騙</title>
       <link>https://lusharon.github.io/practice_hugo/docs/vlog1/</link>
-      <pubDate>Thu, 05 Oct 2023 22:52:01 +0800</pubDate>
+      <pubDate>Fri, 13 Oct 2023 22:52:01 +0800</pubDate>
       
       <guid>https://lusharon.github.io/practice_hugo/docs/vlog1/</guid>
       <description>如果你準備出發前往泰國或是他國觀光，又或是想聽詐騙故事那就繼續看下去吧! 畢竟自己被騙了，當然希望不會再有受害者出現，而且只要了解詐騙流程，遇到時就能提高警覺心。
@@ -37,6 +37,15 @@ A看我們覺得這是個好建議，就立即招手喚來停在旁邊等著載�
 水門寺
 從我們遇到A男 9:46(照片時間記錄)到最後到鄭王廟12:15，大部分時間都在坐船(太陽很大、髒水時不時就會噴濺上來)，水門寺應該是慢慢參觀的地方，但我們就匆匆拍了幾張、去個化妝室時間就到了。整個過程雖然觀光景點都有去到，但時間被約束了而且知道被當盤子心情也不會好到哪裡去。
 最後再提醒一次，在河畔區要坐船請都去搭乘藍旗、橘旗、黃旗、綠旗和灰旗的船隻，非常的便宜，像是藍旗的一日無限搭乘次數是200泰銖，同時碼頭都會明確寫出這是哪個站點，買票會有專門的售票員給你收據及船票。搭乘嘟嘟車或是自行前往碼頭，如果他推薦你去別的碼頭一律拒絕，很有可能是去司機合作的私人船隻。</description>
+    </item>
+    
+    <item>
+      <title>preview</title>
+      <link>https://lusharon.github.io/practice_hugo/docs/preview/</link>
+      <pubDate>Sat, 14 Oct 2023 22:52:01 +0800</pubDate>
+      
+      <guid>https://lusharon.github.io/practice_hugo/docs/preview/</guid>
+      <description>預告 下集待續 還在想之後文章要寫些什麼</description>
     </item>
     
   </channel>

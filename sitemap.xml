@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lusharon.github.io/practice_hugo/docs/</loc>
-    <lastmod>2023-10-05T22:52:01+08:00</lastmod>
-  </url><url>
-    <loc>https://lusharon.github.io/practice_hugo/</loc>
-    <lastmod>2023-10-05T22:52:01+08:00</lastmod>
-  </url><url>
     <loc>https://lusharon.github.io/practice_hugo/docs/test/</loc>
     <lastmod>2023-10-05T22:52:01+08:00</lastmod>
   </url><url>
     <loc>https://lusharon.github.io/practice_hugo/docs/vlog1/</loc>
-    <lastmod>2023-10-05T22:52:01+08:00</lastmod>
+    <lastmod>2023-10-13T22:52:01+08:00</lastmod>
+  </url><url>
+    <loc>https://lusharon.github.io/practice_hugo/docs/preview/</loc>
+    <lastmod>2023-10-14T22:52:01+08:00</lastmod>
+  </url><url>
+    <loc>https://lusharon.github.io/practice_hugo/docs/</loc>
+    <lastmod>2023-10-14T22:52:01+08:00</lastmod>
+  </url><url>
+    <loc>https://lusharon.github.io/practice_hugo/</loc>
+    <lastmod>2023-10-14T22:52:01+08:00</lastmod>
   </url><url>
     <loc>https://lusharon.github.io/practice_hugo/posts/first/</loc>
     <lastmod>2023-10-05T16:03:18+08:00</lastmod>
